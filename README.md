@@ -20,13 +20,21 @@ This project implements a complete machine learning pipeline for weather predict
 ## Project Structure
 weather-predictor/
 ├── data/ # Weather datasets
+
 ├── models/ # Saved ML models
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── results/ # Output visualizations
+
 ├── .gitignore # Git ignore file
+
 ├── create_notebook.py # Script to create notebook
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Python dependencies
+
 └── weather_predictor.py # Main application
 
 
