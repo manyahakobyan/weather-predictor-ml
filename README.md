@@ -19,6 +19,7 @@ This project implements a complete machine learning pipeline for weather predict
 
 ## Project Structure
 weather-predictor/
+
 ├── data/ # Weather datasets
 
 ├── models/ # Saved ML models
