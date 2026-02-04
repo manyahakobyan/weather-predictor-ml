@@ -1,6 +1,6 @@
 """
 Weather Prediction Machine Learning System
-Portfolio Project by [Your Name]
+Portfolio Project by Manya Hakobyan
 A complete ML pipeline for predicting weather temperatures
 """
 
